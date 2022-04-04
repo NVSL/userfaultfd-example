@@ -1,4 +1,4 @@
-Userfaultd C++ example.
+Userfaultfd C++ example.
 
 To run the example, execute:
 ```shell
